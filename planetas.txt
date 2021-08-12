@@ -2,4 +2,3 @@ Alderaan
 Coruscant
 Endor
 Ando
-Terra
